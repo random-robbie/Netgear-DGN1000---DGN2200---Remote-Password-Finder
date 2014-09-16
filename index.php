@@ -36,7 +36,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
 		  <br>
-		  IP: <input name="ip" type="text" maxlength="100" data-mini="true" value="81.5.159.123"/>
+		  IP: <input name="ip" type="text" maxlength="100" data-mini="true" value=""/>
 		  <br>
 		
 		  <br>
